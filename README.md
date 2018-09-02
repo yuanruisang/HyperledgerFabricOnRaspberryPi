@@ -1,6 +1,6 @@
 # Hyperledger Fabric v1.2.0 on Raspberry Pi 3 B+
 
-If you want to play with Hyperledger Fabric on a real Linux machine rather than a virtual machine, but don't want to spend too much money on a new computer or mess up your personal computer with a double system, Raspberry Pi is probably the way to go. However, currently, Hyperledger Fabric does not officially support aarch64 architecture. This project aims to share the binaries needed for Hyperledger Fabric on Raspberry Pi 3 B+ (aarch64 architecture).
+If you want to play with Hyperledger Fabric on a real Linux machine rather than a virtual machine, but don't want to install double systems on your personal computer or spend too much money on a new computer, Raspberry Pi is probably the way to go. However, currently, Hyperledger Fabric does not officially support aarch64 architecture. This project aims to share the binaries needed for Hyperledger Fabric on Raspberry Pi 3 B+ (aarch64 architecture).
 
 The current version of binaries in this project are from Hyperledger Fabric v1.2.0.
 
