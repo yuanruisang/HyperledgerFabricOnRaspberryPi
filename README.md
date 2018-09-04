@@ -13,3 +13,5 @@ https://hub.docker.com/u/pesicsasa/
 For the source code of Hyperledger Fabric, please see:
 https://github.com/hyperledger/fabric and
 https://github.com/hyperledger/fabric-ca
+
+If you are interested in contributing to this repository, just send me an email: yuanruisang AT gmail.com
